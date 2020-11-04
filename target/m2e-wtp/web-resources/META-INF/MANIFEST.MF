@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: TEST_DEMO
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jayasankar
+Implementation-Vendor-Id: com.sample
+Build-Jdk: 1.8.0_231
+Implementation-URL: http://projects.spring.io/spring-boot/testdemo/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.sample.RunMain
+
